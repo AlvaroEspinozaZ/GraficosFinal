@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - Weapon
+  - Por
+  - Wall
   layers:
   - Default
   - TransparentFX
